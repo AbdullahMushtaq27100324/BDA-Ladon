@@ -1,2 +1,4 @@
 deployment-data/*/gopath/bin/
 *.key
+deployment-data/local-0000/gopath/
+deployment-data/local-0000/tls-data/
